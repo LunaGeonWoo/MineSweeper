@@ -10,4 +10,4 @@ The "서버연결" button is for 1vs1 games, but it won't work as you need to ru
 
 Visual Studio 2022로 여는 것을 추천합니다.
 
-I recommend run with visual studio 2022.
+I recommend run with Visual Studio 2022.
