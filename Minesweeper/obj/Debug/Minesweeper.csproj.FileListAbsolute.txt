@@ -1,0 +1,151 @@
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\D413\Desktop\수강생413\문건우\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\eyein\Desktop\코딩\MGW_workspace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\D413\Desktop\수강생413\문건우\Exceptions\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+F:\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+F:\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+F:\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+F:\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+D:\MGW_WorkSpace\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\B207\Desktop\수강생207\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\eyein\Desktop\Coding\MGW_workspace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\sw4_2\Desktop\수강생101\문건우\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\moong\Desktop\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\moong\OneDrive\바탕 화면\Coding\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.dll
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\bin\Debug\System.ValueTuple.xml
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomDialog.resources
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainApp.resources
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\WorkSpace\MinesweeperFile\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
