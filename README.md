@@ -1,7 +1,6 @@
 # MineSweeper
 
 이 코드는 Windows Form으로 작성되었습니다.
-
 This code is written in Windows Form.
 
 "서버연결"버튼은 1vs1게임을 위한 버튼이지만 에코 서버 코드를 실행해야 작동하므로 작동되지 않을 겁니다.
